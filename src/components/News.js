@@ -24,12 +24,12 @@ export default class News extends Component {
     } 
    handlePrevClick= async()=>{
     console.log("Previous");
-    let url =`https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=803aabb7d4744bcfb978fdd0a50f84611&page=${this.state.page-1}&pageSize=4 `;
+    let url =`https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=803aabb7d4744bcfb978fdd0a50f8461&page=${this.state.page -1 }&pageSize=4 `;
     let data=await fetch(url);
     let parseData=await data.json();
     console.log(parseData);
     this.setState({
-      page:this.state.page-1,
+      page:this.state.page - 1,
       articles:parseData.articles
     })
 
@@ -67,8 +67,8 @@ export default class News extends Component {
           })};
          </div>
          <div className='container d-flex justify-content-between'>
-         <button disabled={this.state.page<=1} type="button" class="btn btn-dark" onClick={this.handlePrevClick}>&larr;Previous</button>
-         <button type="button" class="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
+         <button disabled={this.state.page<=1} type="button" className="btn btn-dark" onClick={this.handlePrevClick}>&larr;Previous</button>
+         <button type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
         </div>
         </div>
       )
