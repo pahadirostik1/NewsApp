@@ -1,136 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 37,
   "articles": [
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Donald Trump signals backing to legalise marijuana in Florida",
-  "description": "The US presidential hopeful appeared to signal his support, placing him at odds with other Republicans.",
-  "url": "https://www.bbc.co.uk/news/articles/cq6rj3n8nrdo",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7e70/live/88b777a0686711ef86825b698259f79a.png",
-  "publishedAt": "20240902T06:37:17.5189097Z",
-  "content": "On legalising marijuana for personal use, Trump said that there would need to be rules in place to \"prohibit the use of it in public spaces, so we do not smell marijuana everywhere we go, like we do … [+1629 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Social media: Why algorithms show violence to boys",
-  "description": "An insider tells the BBC why teenage boys are being targeted with extreme content.",
-  "url": "https://www.bbc.co.uk/news/articles/c4gdqzxypdzo",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/96e1/live/1368d3a0661811efb9709f202720b57a.jpg",
-  "publishedAt": "20240902T06:22:12.330626Z",
-  "content": "It was 2022 and Cai, then 16, was scrolling on his phone. He says one of the first videos he saw on his social media feeds was of a cute dog. But then, it all took a turn.\r\nHe says out of nowhere he … [+1835 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Japan teen jumps to death, killing pedestrian below",
-  "description": "The high school student jumped from a building in a crowded shopping district, hitting a woman below.",
-  "url": "https://www.bbc.co.uk/news/articles/cg4yp1ve2kno",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c087/live/17be9bc068e211ef90bcc772c7a7ba13.jpg",
-  "publishedAt": "20240902T05:22:17.2832696Z",
-  "content": "Last year, 513 children took their own lives in Japan, with school problems cited as the most common factor.\r\nStudents who don't want to return to school are known as futoko, or people who dont go to… [+1210 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "RussiaUkraine war: Meeting the recruits preparing for battle",
-  "description": "As Kyiv fights on home soil and in Russia, Nick Beake speaks to recruits being sent to the battlefield.",
-  "url": "https://www.bbc.co.uk/news/articles/c0qe9ql8v95o",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7843/live/b7398bd0687c11efa5bb8587be93a9de.png",
-  "publishedAt": "20240902T05:07:17.2673431Z",
-  "content": "While were unable to ascertain the level of Ukrainian losses, its clear that Producer has been busy bringing back damaged and destroyed vehicles from inside Russia.\r\nI want this war to come to an end… [+1769 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Row over Paris mayor plan to keep Olympic rings on Eiffel Tower",
-  "description": "Paris mayor Anne Hidalgo triggers a debate by saying she wants to keep the Olympic rings on the iconic monument.",
-  "url": "https://www.bbc.co.uk/news/articles/c1w7203pxgvo",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ac5a/live/e240202068d911ef8053114b6ef140b0.png",
-  "publishedAt": "20240902T05:07:14.3930581Z",
-  "content": "The five rings  29m (95ft) wide, 15m high and weighing 30 tonnes  were installed on the Eiffel Tower before the Paris Olympics opened on 26 July, and were expected to be taken down after the Paraly… [+2351 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Dubai boycott: Why more stars might follow Macklemore's lead",
-  "description": "The United Arab Emirates is accused of having links to a paramilitary group, in Sudan, suspected of genocide",
-  "url": "https://www.bbc.co.uk/news/articles/c39kwmm3x94o",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/697b/live/50115e90685111efb43e6916dcba5cbf.jpg",
-  "publishedAt": "20240902T01:37:16.5698355Z",
-  "content": "When fans saw rapper Macklemore had cancelled an upcoming gig, some of them assumed it was in solidarity with Gaza.\r\nBut it wasn't. The gig was in Dubai and he had cancelled over the war in Sudan, wh… [+1207 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Málaga tourism: 'People feel the city is collapsing'",
-  "description": "Protesting locals say hordes of tourists make the city feel like a \"theme park\".",
-  "url": "https://www.bbc.co.uk/news/articles/clyn5l20z72o",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e7ba/live/e9ddb01058a611ef8f0f0577398c3339.jpg",
-  "publishedAt": "20240901T23:37:16.0644728Z",
-  "content": "Besides making these places less pleasant, locals say tourism has also pushed many smaller businesses out of the centre of cities. In their place have come franchise restaurants, bars and shops  and… [+1641 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Titanic: Striking images reveal depths of ship's slow decay",
-  "description": "A new expedition finds that a large part of the railing at the ship's front has fallen away.",
-  "url": "https://www.bbc.co.uk/news/articles/crkm82enkgko",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5824/live/661c38d066a411efa2536316bb688ebb.jpg",
-  "publishedAt": "20240901T22:07:16.8270051Z",
-  "content": "The team has also announced another discovery of an artefact they were hoping to find even though it was against all the odds.\r\nIn 1986 a bronze statue called the Diana of Versailles was spotted and … [+885 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "Whale dubbed a Russian spy found dead off Norway",
-  "description": "The beluga whale  nicknamed Hvaldimir  is suspected of having been trained as a spy by Russia.",
-  "url": "https://www.bbc.co.uk/news/articles/cje2p3z8nlyo",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df34/live/cd43dc00689f11efa465778257f4468c.png",
-  "publishedAt": "20240901T21:52:16.2808906Z",
-  "content": "Hvaldimir's lifeless body was discovered at the weekend by Marine Mind, an organisation that has tracked his movements for years.\r\nMarine Mind founder Sebastian Strand told AFP news agency that the c… [+1330 chars]"
-  },
-  {
-  "source": {
-  "id": "bbcnews",
-  "name": "BBC News"
-  },
-  "author": "BBC News",
-  "title": "German farright heading for vote win in east  exit poll",
-  "description": "Germany's antiimmigration party Alternative for Germany is on course for victory in the state of Thuringia, an exit poll suggests.",
-  "url": "https://www.bbc.co.uk/news/articles/cn02w01xr2jo",
-  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5adb/live/0f1b50a0687711efb105e7ba48a13f87.jpg",
-  "publishedAt": "20240901T16:37:19.2961836Z",
-  "content": "Immigration played a big part in Sunday's election, but the AfD also wants to stop weapons supplies to Ukraine, as does the party heading for third place in both states, the BSW of former communist S… [+706 chars]"
-  }
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hindustan Times",
+      "title": "Pregnant Deepika Padukone is a beauty to behold in new maternity shoot with Ranveer Singh. See pics - Hindustan Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUEc1dlhQN0ttRUJiRjJVMWF2bDNoYkZ4UnlBR284SkRJV01QcHYxTDVKZjhLcUxValMxcUZKUUpId1psRk1XekowR21URWE2VWpJZTJKMzVyUHRuSjlzTnVyLW9tcXRXVUVBNjZEWTJidDdYSFp5blZCSENENjVsNVI0cTc4NzdYS3F5Mm1yRkJ2YVJHamw4cE1PYjAzTC1yRWFubW5HLVZNR3lLNllZM3BwWnAwTVRUck9uY01NZktvQ3NJM0xZa3QyOUVuR1pjQW8tSWl2UllXcTAwMTNSLTBJTTZCZ29RMFVJSVZ0ZENGdXMzU0FqME9iQUZoaXNYeGRDWQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T13:22:57Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ESPNcricinfo",
+      "title": "Hasan Mahmud and Nahid Rana put Bangladesh in sight of historic sweep - ESPNcricinfo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmdMMFItcjVMUWpWa0JXUUFMMlpHY3o2aTU0Rk1mdUhRUzRzS0pudGdPM3hyZmVvRFVodEowLVdOZ05lb3phczc3dDQ0MDhZTHRjMlJlaHRLelZUcE9ibGFSdmdOTnVucHJ0WDY5NmdPN3VsbHBQYmRHZVh2cl9HVG9IbVNxamJzNjBLVkMydmtyc29zUG1PUkdTM3I4YjBBak5YV3hJTU04ZHVnbDBYQk1Ha0hIUHlSaUZ5a2czUkg3OWhy?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T13:18:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Mint",
+      "title": "NASA astronauts Sunita Williams, Butch Wilmore report mysterious noises from faulty Starliner spacecraft: Report | Mint - Mint",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaDNkV0lrUlpXR1VidW9Va2k4RHR5SUVxcVBFUHRNazRjbncxelhiTDNjUXhlLW01QzdvUEFZSTgtYzJIX1FWMjJraE9CcFA5cENzWE5BS3pseHR4YXBNM3d5aGtNVkxvODdVbVZwaFNOVmhHUXVjT0l0S2R3cHNRRTk1NnNpWWxkM2txMi1VM1gyZ2s2eWdmTzZiaVJCYVpCWWJCa19vVHgza3VrcFZXMmFEcEY0ZUJhNnRtQmNqTFNNODh0Q2VwWnNjZGtQRHkxbG9kY21wVmRON3QyUGNiVWxkbkFrXzZVaUZnYTM2aFNOOHY1X1QxSU9tRHjSAYICQVVfeXFMT1g4WWp1STJPb0pSQjBaN1RKdm1RQTZDem9Na0VraEM3M2c2S3dMdThYVndKRXJOWWZWT05RNHhDWEVUWUdtUi0xN1ptemF6aUlKRG5VSFV6SmJtNWxkM3BRQV9iRk51QTR4RjM1c2JjWGM2U2doWWxiZ1lhck1fN3JERUpLaE5CWjJFZGZqbExWTG9xTVNQUGNVSm1wUW5hWWkzTlh4Mml1X3JPY3Q3SzktcGJLX2U5REhNclRPVzNzTDJYRHVLcHJ5QXpOUkpiSUE3N3ZxQXY4WWltRXhWb3lVN09WMXJULVNvMUM1ZUNKcEE0MHR4WktzVVFNM1l0eDRR?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T12:38:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Times of India",
+      "title": "Can cooking rotis on raw flame lead to cancer? - The Times of India",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU21mbEFEc2dhMEZmMXBoeHhwT3FWM1ROYzFWMEpvLWFwRzVrZ09HRW9sV0w4Rk5JWTJ6SmRTTkMwVWIteHN0R0VwMTVGeTNJQmhrOEZzNEJOZ1lCZlhSS0xoOHdpaTdBUUVMcVVtVjdSWlo1Z2pZSmZwYkx2WGMwNnk4SDJVcVJIZ1RGVU1zRm5TazMxQ1gyV0NpdFpELVZIb0tqc0h1X3FxcVlUYVo1VVMwcDliN0drNlNYVE14QXdVYzItN0E1ekh2emxHbnBSU0s2U3gyd2J5VXdxSVHSAeMBQVVfeXFMT2hyX084NEJGcGZqZWxKaHB1RWU4M0lVbnNQRElKNDVOVF9VOVZ5WVI1MkpySlNsWUZ1ZkowbDlWcVIzb1dMTi1vbjIzNDhPeFlxVnViUEF6SFh4UFdVclR4eFB0Vkd0dHlfbVBIZ1dpYlB1VV9IRkdua0lmNkdiNEpBRE9OT2kzcl9uN1hUT2tiT0lJVGczMUdqelFUdmlvOHdzdVRXdXNtMFEyUEVCSFlsSUdISVlQMmEybXFfS2NuVTJyNmZvYlRHcXZFQko0cUhwMUI5TTJhMWg1MFpYZ2hUQTQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T12:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hindustan Times",
+      "title": "‘Killing’ of six hostages by Hamas in Gaza sparks anger, massive protest in Israel: Who were they? - Hindustan Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczd4bGZPeUdtemtwZEpDWnhvTUtxcjAyb3ItOGEyU0pjR216VVJWZG9DSGw1d1owdUQ1WVBRVjZkbmJZVVJ3YlR2UEYyTzZrTDdnS1pCcG56V0ZSNG40OW9xWFVXRVdTY0VGdkZlWlI4MmtJV0EyWUhQQUJCUXdLQzBVZjF6YzBDWXVub0RaRlBzaFNrTTlRREVKTmFyZlI5Qy1XaENSQlhkTzAxSTVsVzNUdVZuakVLR0Z0U0RuOF9BTURzd205Mzd1QTJvUzZOLUR6Qm9oelhGd1ZZVjdGVzQ5aTZNcUg2V0kybDFrSnVxb1ZZc3dn0gH8AUFVX3lxTFA3RFZZUVlKRFBHZHF1QnR0SHdYSkY2U1ZXc1F6ODJ4MDVpZW9xMDBDcXpwM1NMWk9WZXlrZ3lHQTF0dWNrRHE0M3FyT1V6TEJUcnkxeHFIYmJMVnBwYXBCaG9nYmpOYTlYd3hKWXIxTnoyVVJLTjBpcnhkNW9TRHpXTGoxUm9UT0pJTFFObVFGZTZQM0ppQ0o0b1JsZGFPSFhXZk92OUVVcG1Nb3lVdTdfYk91NXRIUTlyMlJoWmxhbmlGcXczUk1XX1pWdGczeXdtWk93Z1lDdUlwaTZMTFh6Vjc2eG9Dck9zc1VIaW1lYjkzLUlZQzQ5MXBuOQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T12:17:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NewsX",
+      "title": "Asteroid 2024 ON To Pass Safely Near Earth On September 17, 2024: Virtual Telescope Project Captures Stunning Images - NewsX",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSWhTajZIUU5KVXljNWVMaFhCcHFScm9rendrSTJhQnNCbjFRWVdxTEZFcTZfYkVaMnhtemRaSi1rUFY5Q0djSWF4TF81b3IzTGp0UjFELUZtVGowQmxaSWJfN1BYX0pBQlpCdlBSNExoTEpCclJpbklCNlpmYUd2VThJaXFwQzZUbHFoeHJ6RWNxLUhrMzYwRllGdEFDdnE2U2ZBcTZYQUFIeWY2TlJpR0RhSEVXQ2pVamJGUGdjc0xCT2xmT1RtUlllVGhIX1lIV1RFaTFYTGhqN3hiY1RZaUplenNwQQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T12:05:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hindustan Times",
+      "title": "Paris Paralympics 2024 Live Day 5 Updates: Nitesh clinches badminton gold medal - Hindustan Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTFhDbk1fcEw5UW1keml2TE96c0ZOYVdnMDlXTkJhMjlQUHh3SnYtR2RPcGc4ZC0wRkltU0RYckVYNmNySHBkbGdVWnc4d2cxdXdnaXQyQnJtenVNMWhaZVpuRnpZRTcxVUx1b1ZSNDBjZERhZkFOWmtHWU4yckRnaXFVQ0xNTkFhVmdFS2FtRklFVlFjNTNVMUhLTllXaUh2ZVpKb3RmYXFkZlhxaTZvYVRQNXU3cjRiQTdlakZBUWc3ZXIyYzJaZ3RPanpXakowR05qYVNEb0Q1bWM1V0VQOS0yR01MamZaLXlhalR4TVg1V2JyaUpVa2x6TELSAYICQVVfeXFMTkdmY3FlU0hfMGpLakM3dmdzY2ZGampVSXVpaVlRZ010cGUzOU50bTE0eXg1S3p6a3oySjFBRU5sUEZpM2pRa2EtZWtldjZ3RWQ2WnFydGE0eUVhNlFrLVNqemNoV1p1dUVTVUM1dGFuQWVJYUppN1NMZ3ItNWdGcURUdW9LZU56ZEs1ZGd4SHZ4c0VUcUp6a3hpa2FDLWVsVjkwT3JxajJ6WGV6S0tSMDhrNFplYlpKY3VnM2xhd0RPQ1c5eDQxUEpjYlU2NHdyd1g4bmJNZjNiX3ltM25zYjcxZlk5R0ZLcTU4RlF4TWpId1h6Z3RGcUxqamFUbms3WlZn?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T12:01:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hindustan Times",
+      "title": "RSS supports caste census but warns against 'political use' - Hindustan Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVJiRU5JazJWaWxrbWhneG84eWV3Q1ZRbkFycWtfN1dQeDFWWkpFWGI4WTF2SGNXNUtUX1J3NVZ3dldzYzFVeHVTN1lzaDlkZ25jWGlWWnE0aTNiZkRmb2I1c1JHdm9kVVQtVXQxSlFlOFF4akJJbkhUWEttZUFJUE5LelRsa3NwV1JKTEFIU09SZk13WDNvcUd3ZkVfVHVjT3Y0ZEpkRHBaQmN1ZzZYa3FPWjFfRndKMUIyZ9IBwgFBVV95cUxQVl9mMXlIX1REUWRWQ2JNdUN0cTF0YnVJV2d4a3JETjJKcUJub0FPaG9WWVgwUFhMVW9EUDhSZFRjOWk1U1B6SDN6b2c5UnBLXzRoLXo3V2szNGZLU3B4SGVsZjR3OVZvLUpFSEJ3M3h4YzdUSDZRRWZHblhPTXoxSlBCX2pLWUlnRnJyaHg1d2hlSUZsanFmcGVJd0FtV21DalNFVGpaem56NzViaVpxUGZOVy1uaVZQdzFVN2FDUGdEUQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:55:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Mint",
+      "title": "Firing outside singer AP Dhillon's house in Canada's Vancouver; Lawrence Bishnoi gang claims responsibility: Reports | Today News - Mint",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYUZ5bEJKbHZpaVFfbEtORGdWX05ieXNtY2x1QWlDdFdrOXdYSGRuNU8wR2EtR2VUZHNvLXZtaDVCMkZsNmVDbjQ2RjM3M28yU1d2WHhIY0JXQXl4U05SQ1ptMnY3aXlobnh5Y0lnN2xPNVlHS1I5eVRnOTBzbm9CdHRVX3JiMWFEZGxyQnU3MzJyNlVIV1cxRUN1c2JxZkVCbDlPQzVaaXprdUVLSC1ES3dKZWZFYXpIby11WjJEZDM5akJoOTVibFMweWRNejlWYlJVOUFmWUlwUEZidXgxMVY3OFBNaDJPeHNnbG130gHzAUFVX3lxTE8xMzVyNGtJRmYtUS1tNmVOdDVjR2F5OVl5RnZwMlBjc0RsMThHUEl1LUFURnJ0UGRaLUZQSHZtMzV3NEM2REExTGx6NTcwdm9Pb01HV2d6NTlrc1l6SXlKX1pFMVlOT1NGNGU3N2x2S2NpbXZyZDVuUjVtTTloN0pCcDBKd3B4anYwWWNtLTdmanQ5UXh3cm5qM3ZDSzlEN21MMjh0X2oxWUZUSG5faU9qcEJPQmxsMVVNdS1GaUZaTkN4dmZxcEJEV1dBNW9ISEJOTWJ1d3U4R25YeEF3NDNyenUtOXZmMkN2MDlIOXl1dFVsSQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:47:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NDTV",
+      "title": "Bloating And Gas From Fibre-Rich Foods? Nutritionist Shares Tips For Relief - NDTV",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2VNRUVwT0FMSVAybjUyRFVQWWxJcVFaWGpGbVpRR1NGaExiVXRlTGs1dUFKTE1TX0Noc2E0QWlCTzlRaUlvT3M3UGRMUWRWYnlmRUFPX0V6aEgtMEpuOUJJTVIyRmo3S2JHUkFQd2t2SENLZy1mWlVFODVZQjVNRlJxV3V6YnZYSnU1WVNYeXlMcHNQYTZMdWNncENySzdKSHc1ZFN4RlJpYzNTcmxB0gG3AUFVX3lxTFBGS2dhZURUZWxPeldId1VYc3c0blVaMm9vOUM3N2lKYlM3anFMWlBpeTlhR2FWVDl1bXg2QS04OWRtYXU0VER0dnRQbVVRVmtVUGNrM3NtN0RSbGotMGhzaF9FUmdPWXA0Y29sOEhmUXN1S2NsRGtvZUlUN0I0QjhDMHN0SzFXc2FkS29zRWRkMDNMWUpDN25WV1h5TWdZZmRnQ1k4c3NNYWgwUXBjSTdhWnBhU1ZTaw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:39:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Times of India",
+      "title": "What happens when you only walk on weekends - The Times of India",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPODlEQWRaRTZWeTN4bktFWlctOHNUQ0xpN3NZb1FqVWRnOEVDaUJjLWxzRlpZMjB4X0Q3ZHhmSHRaQ1BaZ2VaYlVvR1B3bklvd3dHbjRIdDJzUGVJZloyOGZjSTBEVUVlcWhZYUQtdmktQkI3QXRpWTRKaTRYMTlqOXUxZmJTUVJNdEFibVJmUW5FekNLR0sxaXoxVE5RLXpTYmNCMHBqWEk4cHJWcmZXaldoVHRGMGxmQlRoT3BJT2ZDMWlwMFhpZTUwZFRUTGEzM3F5bXln0gHbAUFVX3lxTFBEdzVnNEFEX29WaTJrYWtTYVdndklUS0VJQnNuSXE5YjRnTmxkZ3F2ZUh3bGdYYkZxaVpvckh6Vmp3R3E5MkZ5RmNYbHhJVFhGUG00eUJ3ekhrNllJY3BEa0pGbEhqenlva2JsaFJkX2U1VVhwUTY5M2h3X3I3NHFWcHN0MVQtTkhQN1dxTnJrYk94bVFaWFpNTjVRYXNfQ3E4c2I1bWVaSW81TTBSTXJZWklfaTg5VWxlTm9nSEhfZHNuRHYyb1hEMkQzSTZfUHkta0lxR0JRRTYyYw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Koimoi",
+      "title": "Stree 2 Box Office: Rajkummar Rao Grabs 11th Spot In Star Ranking By Beating Sunny Deol! - Koimoi",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDI5dlExaUJES2VNZE5meHNieUgwSkJldmFxRzlWMmhCU0t0VVM4ZklsNXBnc3BKM0NsaTRxT1NqRnV4dmRfbkpUWUxXYTBkZkczN0c5cDMxNGlZeHhqU21zNjV3VXo1b0htUEZjVklJT3NuRTBJZTF4MFcwQkVUOWxXVXRNZVJ3akZQWXhpdF93TWpNeVR5OTBfbVJXQmdqN21LZ3UtcEYzbHktVUUycXd0c2pLV19MbXlfMk5R0gHDAUFVX3lxTE45WlhwY1BEUmFFSHZlV2lsLS12Tk5tZ2lVaXhRdWpPTS1oV1E3NEhUSkZ3ZTVVOVBkV0dwdXFSczB2SzZkSVhZa1hSeTIwVHVGVUhfdDFmbTcwNnhIbjU1a3BBLXdQX2tlLXpWc29QajZxZWdfbWk2TkYzQmlXNVo1cWw0YW56bjZNMW12VTBOY2tqWkxEUW90RXp5dVVYT1VSbnF0MnZ3dlF4blR6MlNLQnNVd3REMHMxVFQyVy1haTBNVQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:32:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NDTV",
+      "title": "\"How Can House Be Demolished Because...\" Top Court On 'Bulldozer Justice' - NDTV",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUR5Wi1kR1NuSzMwc0lqRDVfMmIyU01aUXZkaGRqQnBqNEQ1TGlDSGhtMkNkUnlrRm1SRHdNWFN2N3RNSHZXQV9KU3g2azdocnlQc3BxTmFDbnNiRzJTem5rUkVULTRDRFJOYWduYWlLZmxsaTVlZ2lNdmdFNC1DbUFYbXRPSElQTFdJV1BPZTRsdGpIYlRLaklfeE5YTlMtVDJyNjNDekhsQQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Hindu",
+      "title": "Arvind Kejriwal’s aide Bibhav Kumar granted bail in Swati Maliwal assault case - The Hindu",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWtjN191QUFlblBEdkprZWZYemJGdFZ1dERyb1k5QnBRWjkyVGZ3VEFCNzhhZmdnekRyc0hHcEhOUG44bm1fdUVJY2xVQmx1c3AxME8tNG1QNzREOVR0UGtHbTdfU3IwVExvMzF5Uk1GeVJ6aFVJcF9lTWtHeGZrTE82VXJVQ01IOFBXVXlsTl8tOGotbFcwcnVlS05JUThhaHlYTkx5WFZubjg2bW1LZjkzNnBtT0RHcmNlZTFGN1pSVHNhb01YMHh1SDN3UWtMZGfSAdgBQVVfeXFMUGYxbTdRTEVubF81WEstWXRoT1hVTGdqMkxGTDI2emstRnpFa0FrRVBDYW96Q0FmRnQwNmVveTJhZUpxd2xBVXpxbS1oeHZIY3FuZ2xDTG92RDJWbTIzU1ZDTW1HWW9GQ2ZpclpnblE4emlsMko5YktIVmJJRldOcHVESnhvdmw5MFdqT3lCQklnaXRmanVkeGRPQmJTRzdKVkV5NlJLbC05V2tvUWhFSGVjenl3Wlk4OUJ0OWNCa1FMVk9JakkyY2g4aW4tbEVtRzM1aVJTR0x2?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Moneycontrol",
+      "title": "Photographer claims to capture 'clearest moon photos' ever, netizens react—see the pics here - Moneycontrol",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQjBadnMtdV84NkdqU21QM195YTZEaVh3Tm1ZTWtJQy0ydmx3NlR2aHI5aXViUmZVUlZmSV9sOUpyemNSMTl0dF9nbmhDR2lXTXliUGV5T0RvMXFYVVJwWjNmMS03elJzczF6SXExd0FGYkloYWpEQU1ONXpjb1VCcmVlblVzbDdNcjN3ZmhldElHUncxREYwdDNiUVByWVM0SmFCQWlDUU9vZnZISElNdmVuVVktWDMxOUZDSkZwLUd1MDdXUDRBUUt1azRUbnFKQWVUanYxYnczcVp2TXBibTR30gHnAUFVX3lxTFBuaGEya3ZqRjZVbTR4UXQ1V1FUV3l2S1ZtV2dvbk1EbzI0X05rMjZzYUtpSnY2QXdjZENyVHBGalcydV9ZeU9BUTNHOV8yR25YVVdISTlBWWtYMV9FWmI0X2RHamM1VGZyTWtaTktQVERtWWcwUkhLM0VRRXNhdWpUQW00THdRakQtWjcwRDlhTHZBM1E0SHR0ZklCS3YwSDBITEhoQlFwODdwSGFvUHhISGQwVnlXWm9yb19wTWlmNThRZlVXekh1WkE3ai1RSGxhM2NDOXVPa1AydXFFb3QyalpnUFpQQQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:06:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BusinessLine",
+      "title": "Stock Market Highlights 2 September 2024: Sensex, Nifty close at record highs; foreign fund inflows, rally in US markets lifts indices - BusinessLine",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOExGdHVyUm9laGxLSld3aEJfMGxSaUZEUmlvQndkY2gxenBTNHE1N0c1QzY3b2o5QXdrTDJaZHgxRWVpeHJfQXFPOGlRa0lrV29Zc1RwTnN4bWliSDRiNjZ6MU9CQjd3MWVtVHJWSWlmMVUxcVJrcmlndFllUzFoQ3l2c1ZKc1BuNmhMcW9KdmtKcXE5Zk5lYVhib2w3LV9qMXp4T2RoZHNfVHlVRFBiYXZyQm52ejMtT0E?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T11:00:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Moneycontrol",
+      "title": "Govt approves Rs 3,300 crore chip proposal by Kaynes under semiconductor scheme - Moneycontrol",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVERuZDRvbU9DaFNNLXpHb1MwbGpyTkJ4Q0hpUXlQTFVMaHhGVkx6c3I1NGZERTFFbm1tV3VNR0t2dXo4Q2JSbW1GQXNEd2k0QnpkbF9teW5wUEtZOUNPMUZEQXN0dUhVVDBQWVU4TXhEeWpGZXFBWEtLcXlVTEx5a0tjSG5vUjVKZUdtZUxKV29UV0x3WE0wZFF3YWR2am5mSG9Ccjc2ZUk2YkhySEFQYVdrMm41SmRNNVJQbjIyaFh4ZkhBbDktekhEN3pkUHh6VXFUSHVFYw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T10:43:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hindustan Times",
+      "title": "Intel Gamers Day: Get up to 35% off on Intel Core Gaming laptops and take your gaming to the next level - Hindustan Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNGNUQ2pSaUhiSDlWQ28xWHJTUS11bmtBQkR2WWpGRk9IcGdxaExkTEhnYjRrMTluWVMwbDdjNS1DcXI4TmI5engxZHQ3NDI4UlRMYWdsTzJwMzU2dDdKbjN0azVXUktnbVRXZTJlY0xzWVZvWjRZM0NaNFRjbzFPYldWTlpzWHhyZS01V29SeHBuNWhuOEJzbkxJcEwzbGd1dnJiaWt5bHFYUVdHWVNJNlNBWF9NVzNCclI1NU5Ubnl6NXUxQkdRdU54R0hrcWhfYzNDbVdqSWw4VWxubzJ2dzFoZllQQnR2TDljXzVtb1FvOHJvNmVZ0gH8AUFVX3lxTE9QOXp4dFhHdlN4VUdIeXkxQVpIU2tua3lMRXRsUU1IOUdETDNucmdKSm5UaWFFR1JZN2FOZmRmdng0X21YN29aVWNVaTA4aXozbUF1YnBTT0RGRGR5d3l3NVZDR3ZWTkkzYWpWOUtVblRZUW82SnlVUExuRFg2MDV5U0YxWm1MMVlpZWV1aDhnWmRSc09xa3ZESzZwWHZYcWlZa1ZBczQ3V1hhbHg5VFkzYlctbk5sdmdEbjduYnVqOUd3Q1pscHg1RkxJZlVVQnB3YnFXb2ppYnRmbzllanpONHhkUkFRdkdZT0tpcUVIMVhOWV84OEF1REpQcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T10:31:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TOI Etimes",
+      "title": "Kangana Ranaut REACTS to a post on 'IC 814: The Kandahar Hijack' row: 'Freedom for communists, for nation - TOI Etimes",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPcDNtUGFhcHY5VWdLM1RBaUpOUVd1NERTQlR0SmIzYV9RX2hzMlNja1VXQ01aR3ctS0xfOHJLdi1kTXhXdEFVeU1sOFExZ3BwSUlILW03bEtjQXdtVldXNV9kdmpFWG05QVpNNWlZSTJRa0l6ek10RTNPYlNhbzJOUDhxSWxZUGtMaE1WUnFrVU82TWhyYnFBU2ZjeS16ZURLYy1TMXh2NkRlRnZxcHd5V05RdDBlZEpIaUJILUpxRnotUFBfMFNFUW5VY3RIVGxvVFdCUDhTN3pDM3JINkVRQnZVaHhLWnE5T3E5QXZRSHJUY3NVSHdsVnBFWDl0WHI3c21Hb29YRnA4d3VROGNTYTNEUW04cUh4N3BPS0xja0JJazVTLUYzLUtDbw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T10:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Hindu",
+      "title": "Paris Paralympics: Yogesh Kathuniya bags second consecutive silver in men's discus throw F-56 event - The Hindu",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd0dzZzI4TTVRVHY2eEgwMm5ESHAzejk2OUpMU1Mzd0FlSWNhbEJjV0xTQ1JwQlRUc3pxSXY5Qm9jbnhEbGEwazZQbXJLMmV1Zy04dGR4NzduQ19NMGdnbGlmX3h0SjhjY1YwUzlOSHBoN2tic2czTmtuNXI1VlF0SEl1blcxSE1XcENyYmhTRTAtcFNfdi1BVFo5a2hlWjBNZVJHak56N1hfSGJUUmtEY3J3VFRiOV9YX09oRXF2WU5zTlZaYmN1TGRzRGtTLVEyTXRpd1o0bEtCMXRuak1FcXBTdVZXejEyaHhEYUFn0gH0AUFVX3lxTE5QVV9TaURJcmhzX0ZKSzRMRDh2UXQwZjN0a0ZxTTNxeTI4cllrRU8zS1JHeFIxVk1SRU5Ka3RULThnclh2UGstU2ZoV3hiUS04bVpDeGNHbGt0ZXJBR2hKTFRVc3JLS21GR2pqVkgxSlZGcG1aVE1kaVp4NktGZnNGc2xNVHBLaTVpeXBwUHFSNlBPeUpBdGh3UFJkcHVuZVViNnMwWWREUzhtaXlQZHpiWUtBZHBjS0lIOXhQU2VuQ3A3cVFRdXJHa3VrV2VHN0hxTklMQXczcTFBMkVvLUZUX2tWdUdDRWNvc29pVGdMMU5Pc18?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-09-02T09:30:00Z",
+      "content": null
+    }
   ]
-  }
+}
