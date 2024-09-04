@@ -28,46 +28,36 @@ export default class News extends Component {
     }
 
    async componentDidMount(){
-      let url =` https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=803aabb7d4744bcfb978fdd0a50f8461&page=1&pageSize=${this.props.pageSize}`;
+      this.Update();
+
+
+    } 
+    async Update(){
+      const url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=803aabb7d4744bcfb978fdd0a50f8461&page=${this.state.page}&pageSize=${this.props.pageSize}`;
       this.setState({loading:true});
       let data=await fetch(url);
       let parseData=await data.json();
       console.log(parseData);
-      this.setState({articles:parseData.articles,
-        totalResults:parseData.totalResults,
-        loading:false})
-        
-      
-    } 
-   handlePrevClick= async()=>{
-    console.log("Previous");
-    let url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=803aabb7d4744bcfb978fdd0a50f8461&page=${this.state.page-1}&pageSize=${this.props.pageSize}`;
-    this.setState({loading:true});
-    let data=await fetch(url);
-    let parseData=await data.json();
-    console.log(parseData);
-    this.setState({
-      page:this.state.page - 1,
-      articles:parseData.articles,
-      loading:false
-    })
-    }
-   handleNextClick=async ()=>{
-    console.log("Next");
-    if(!(this.state.page+1 > Math.ceil(this.state.totalResults/this.props.pageSize))){
-      let url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=803aabb7d4744bcfb978fdd0a50f8461&page=${this.state.page+1}&pageSize=${this.props.pageSize}`;
-      this.setState({loading:true});
-     let data=await fetch(url);
-     let parseData=await data.json();
-     console.log(parseData);
-     this.setState({
-        page:this.state.page+1,
+      this.setState({
         articles:parseData.articles,
         loading:false
-    
       })
+
     }
-   }
+
+
+   handlePrevClick= async()=>{
+    this.setState({page:this.state.page-1});
+    this.Update();
+    }
+
+
+
+   handleNextClick=async ()=>{
+   this.setState({page:this.state.page+1});
+    this.Update();
+    }
+   
    render() {
       return (
         <div className='container my-3'>
