@@ -38,7 +38,7 @@ export default class News extends Component {
    } 
     async Update(){
       this.props.setProgress(20);//it invokes the setProgress method passed down from the parent (App) component.
-      const url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=803aabb7d4744bcfb978fdd0a50f8461&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+      const url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
       this.setState({loading:true});//It sets loading to true to indicate that data is being fetched.
       let data=await fetch(url);
       this.props.setProgress(50);
@@ -56,7 +56,7 @@ export default class News extends Component {
     fetchMoreData=async()=>{
     
          this.setState({page:this.state.page + 1});
-         const url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=803aabb7d4744bcfb978fdd0a50f8461&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+         const url =`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
          
         let data=await fetch(url);
         let parseData=await data.json();
